@@ -1,0 +1,29 @@
+#blog {
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  border: 20px solid #bdc3c7;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#blog .post {
+  margin-bottom: 30px;
+}
+
+#blog .date {
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: #3498db;
+}
+
+#blog h2 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #374c60;
+}
+
+#blog .quote {
+  border-left: 5px solid #bdc3c7;
+  padding: 8px;
+}
